@@ -16,9 +16,13 @@ pip install opencv-python numpy
 
 
 ## Archivos:
+
 -> ruta_1.mp4: Primer video de la ruta.
+
 -> ruta_2.mp4: Segundo video de la ruta.
+
 -> video_con_lineas1.mp4: Resultado del primer video con las líneas detectadas.
+
 -> video_con_lineas2.mp4: Resultado del segundo video con las líneas detectadas.
 
 
